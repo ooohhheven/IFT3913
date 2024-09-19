@@ -6,3 +6,6 @@ https://www.softwaretestinghelp.com/pytest-tutorial/
 https://testdriven.io/blog/pytest-for-beginners/
 https://realpython.com/pytest-python-testing/
 https://www.youtube.com/watch?v=cHYq1MRoyI0&t=17s
+
+lien pour diapos: 
+https://docs.google.com/presentation/d/1GCXoGD29ddbxtRrY-OG3D6w-nN5zSbcrrWn97xTFDnA/edit?usp=sharing
